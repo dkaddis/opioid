@@ -1,1 +1,1 @@
-# This program features state-level regressions for any opioid, prescription, and illicit mortality rates and their relationship to the shipment of opioids.
+# This program features state-level regressions for any opioid, prescription opioid, and illicit opioid mortality rates and their relationship to the shipment of opioids using a set of independent variables from demographic data pulled from the Census Bureau.
