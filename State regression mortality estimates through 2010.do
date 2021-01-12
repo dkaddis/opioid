@@ -2,13 +2,13 @@
 	set more off, perm
 	capture log close
 
-	cd "B:\Chi_ClientData\OPISTATE\Analysis\dkaddis"
+	cd "..."
 	
 	global input ".\Input"
 	global temp ".\Temp"
 	global output ".\Output"
-	global data "B:\CLDCAIX_Clients\opistate\sasdata\master\"
-	global chart_sch  "B:\Chi_ClientData\OPISTATE\Analysis\dkaddis"
+	global data "..."
+	global chart_sch  "..."
 
 	global c_blue `""93 165 218""'
 	global c_red `""241 88 84""'
